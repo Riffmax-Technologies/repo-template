@@ -1,0 +1,5 @@
+app/.gitkeep
+docs/.gitkeep
+tests/unit/.gitkeep
+tests/integration/.gitkeep
+deployment/.gitkeep
